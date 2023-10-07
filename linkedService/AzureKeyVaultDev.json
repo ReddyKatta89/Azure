@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVaultDev",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://project101devkey.vault.azure.net/"
+		}
+	}
+}
